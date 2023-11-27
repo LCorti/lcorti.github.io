@@ -1,12 +1,14 @@
 ---
 title: "Software Methodologies and Architectures for Security - Enterprise ICT Architectures (2021)"
 collection: teaching
-type: "MSc course -- Teaching Assistant"
+type: "MSc course"
 permalink: /teaching/2020-fall-eicta-polimi
 venue: "Politecnico di Milano, DEIB"
 date: 2021-09-01
 location: "Milan, Italy"
 ---
+
+**Teaching Assistant**
 
 *Course offered as part of the joint MSc program ''Cyber Risk Strategy and Governance'' with Bocconi University, Milan.*
 
@@ -14,8 +16,6 @@ Enterprise systems today are the core operational and strategic tools of compani
 This course aims at giving a broad vision of all the important elements of enterprise information systems, of the technologies and platforms used to implement them, and of the methods that let companies implement appropriate solutions for their needs.
 
 Topics covered include: data modelling, business process modelling, cloud architectures, and Internet of Things.
-
-**Role**: Teaching Assistant
 
 Responsibilities
 ======

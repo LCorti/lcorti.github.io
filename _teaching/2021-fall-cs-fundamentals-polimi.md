@@ -8,9 +8,9 @@ date: 2021-09-01
 location: "Milan, Italy"
 ---
 
-Introductory course for 1st-year students in Computer Science and Engineering. Topics covered include: problem analysis, design of algorithmic solutions, and coding (in C++). Particular emphasis is placed on abstraction, data types, control structures, functions, dynamic data structures, and recursion.
+**Teaching Assistant**
 
-**Role**: Teaching Assistant
+Introductory course for 1st-year students in Computer Science and Engineering. Topics covered include: problem analysis, design of algorithmic solutions, and coding (in C++). Particular emphasis is placed on abstraction, data types, control structures, functions, dynamic data structures, and recursion.
 
 Responsibilities
 ======
