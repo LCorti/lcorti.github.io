@@ -1,7 +1,7 @@
 ---
-title: "Computer Science Fundamentals"
+title: "Computer Science Fundamentals (2021)"
 collection: teaching
-type: "Undergraduate course"
+type: "BSc course -- Teaching Assistant"
 permalink: /teaching/2021-fall-cs-fundamentals-polimi
 venue: "Politecnico di Milano, DEIB"
 date: 2021-09-01
