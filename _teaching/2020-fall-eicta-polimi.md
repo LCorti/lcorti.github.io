@@ -1,7 +1,7 @@
 ---
 title: "Software Methodologies and Architectures for Security - Enterprise ICT Architectures (2020)"
 collection: teaching
-type: "MSc course -- Teaching Assistant"
+type: "MSc course"
 permalink: /teaching/2020-fall-eicta-polimi
 venue: "Politecnico di Milano, DEIB"
 date: 2020-09-01
