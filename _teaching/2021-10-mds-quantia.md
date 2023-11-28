@@ -1,5 +1,5 @@
 ---
-title: "Master Cloud Data Architect"
+title: "Master Data Science (2021)"
 collection: teaching
 type: "Organisation employees training"
 permalink: /teaching/2021-10-mds-quantia

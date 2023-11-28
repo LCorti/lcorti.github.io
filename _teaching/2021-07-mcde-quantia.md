@@ -1,5 +1,5 @@
 ---
-title: "Master Cloud Data Architect"
+title: "Master Cloud Data Engineering (2021)"
 collection: teaching
 type: "Organisation employees training"
 permalink: /teaching/2021-07-mcda-quantia

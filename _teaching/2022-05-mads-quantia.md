@@ -1,8 +1,8 @@
 ---
-title: "Master Cloud Data Architect"
+title: "Master Advanced Data Science (2022)"
 collection: teaching
 type: "Organisation employees training"
-permalink: /teaching/2022-05-mds-quantia
+permalink: /teaching/2022-05-mads-quantia
 venue: "Quantia Consulting and Cefriel, Milan"
 date: 2022-05-27
 location: "Milan, Italy"

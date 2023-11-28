@@ -1,8 +1,8 @@
 ---
-title: "Master Cloud Data Architect"
+title: "Master Big Data Science (2021)"
 collection: teaching
 type: "Organisation employees training"
-permalink: /teaching/2021-11-mds-quantia
+permalink: /teaching/2021-11-mbds-quantia
 venue: "Quantia Consulting and Cefriel, Milan"
 date: 2021-11-01
 location: "Milan, Italy"
