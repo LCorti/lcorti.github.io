@@ -9,12 +9,12 @@ location: "Milan, Italy"
 role: "Teaching Assistant"
 ---
 
-**Teaching Assistant**
-
 Full-day training on Information Retrieval and the ELK (Elastic, Logstash, and Kibana) stack provided for *BIP Consulting* as part of the Master *Cloud Data Architect*.
 
+- Role: teaching assistant
+
 Responsibilities
-======
+------
 - Introduction to Information Retrieval
 - Introduction to ELK stack
 - Coding exercises

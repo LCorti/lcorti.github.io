@@ -9,16 +9,16 @@ location: "Milan, Italy"
 role: "Teaching Assistant"
 ---
 
-**Teaching Assistant**
-
 Two half-day sessions on 
 - Generative Adversarial Networks 
 - Working with Cassandra in Python
   
 Provided for *Allianz* as part of the Master *Big Data Science*.
 
+- Role: teaching assistant
+
 Responsibilities
-======
+------
 - Introduction to Generative Adversarial Networks
 - Working with Cassandra in Python
 - Coding exercises

@@ -9,11 +9,11 @@ location: "Milan, Italy"
 role: "Teaching Assistant"
 ---
 
-**Teaching Assistant**
-
 Half-day session on Generative Adversarial Networks provided for *Nestlè* as part of the Master *Advanced Data Science*.
 
+- Role: teaching assistant
+
 Responsibilities
-======
+------
 - Introduction to Generative Adversarial Networks
 - Coding exercises
