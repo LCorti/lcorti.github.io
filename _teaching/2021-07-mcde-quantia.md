@@ -1,11 +1,12 @@
 ---
-title: "Master Cloud Data Engineering (2021)"
+title: "Master Cloud Data Engineering"
 collection: teaching
 type: "Organisation employees training"
 permalink: /teaching/2021-07-mcda-quantia
 venue: "Quantia Consulting and Cefriel, Milan"
 date: 2021-07-20
 location: "Milan, Italy"
+role: "Teaching Assistant"
 ---
 
 **Teaching Assistant**

@@ -1,11 +1,12 @@
 ---
-title: "Master Big Data Science (2021)"
+title: "Master Big Data Science"
 collection: teaching
 type: "Organisation employees training"
 permalink: /teaching/2021-11-mbds-quantia
 venue: "Quantia Consulting and Cefriel, Milan"
 date: 2021-11-01
 location: "Milan, Italy"
+role: "Teaching Assistant"
 ---
 
 **Teaching Assistant**
