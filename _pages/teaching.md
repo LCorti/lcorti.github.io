@@ -10,7 +10,7 @@ author_profile: true
   {% for post in site.teaching reversed %}
     {% assign post_year = post.date | date: '%Y' %}
     {% if post_year == "2022" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single-teaching.html %}
     {% endif %}
   {% endfor %}
 </ul>
@@ -21,7 +21,7 @@ author_profile: true
   {% for post in site.teaching reversed %}
     {% assign post_year = post.date | date: '%Y' %}
     {% if post_year == "2021" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single-teaching.html %}
     {% endif %}
   {% endfor %}
 </ul>
@@ -32,7 +32,7 @@ author_profile: true
   {% for post in site.teaching reversed %}
     {% assign post_year = post.date | date: '%Y' %}
     {% if post_year == "2020" %}
-      {% include archive-single-cv.html %}
+      {% include archive-single-teaching.html %}
     {% endif %}
   {% endfor %}
 </ul>
