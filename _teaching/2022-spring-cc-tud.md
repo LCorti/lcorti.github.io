@@ -1,5 +1,5 @@
 ---
-title: "Crowd Computing"
+title: "CS4145 Crowd Computing"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2022-spring-cc-tud

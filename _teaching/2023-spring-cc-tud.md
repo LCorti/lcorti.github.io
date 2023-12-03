@@ -1,5 +1,5 @@
 ---
-title: "Crowd Computing"
+title: "CS4145 Crowd Computing"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2023-spring-cc-tud
@@ -13,4 +13,5 @@ role: "Teaching Assistant"
 
 Responsibilities
 ------
-- Grading student assignments ()
+- Coaching group project
+- Grading student assignments (review of influencial papers in the are of human computation)

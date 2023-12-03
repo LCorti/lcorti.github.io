@@ -1,5 +1,5 @@
 ---
-title: "Seminar on Web Information Systems"
+title: "IN4326 Seminar on Web Information Systems"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2023-fall-swis-tud
