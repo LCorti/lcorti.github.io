@@ -3,7 +3,7 @@ title: "IFEEMCS520100 Fundamentals of Artificial Intelligence Programme"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2022-fall-faip-tud
-venue: "TU Delft, Delft"
+venue: "TU Delft"
 date: 2023-09-01
 location: "Delft, Netherlands"
 role: "Teaching Assistant"

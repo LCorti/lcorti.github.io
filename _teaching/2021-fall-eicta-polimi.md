@@ -3,7 +3,7 @@ title: "Software Methodologies and Architectures for Security - Enterprise ICT A
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2021-fall-eicta-polimi
-venue: "Politecnico di Milano, DEIB"
+venue: "Politecnico di Milano"
 date: 2021-09-01
 location: "Milan, Italy"
 role: "Teaching Assistant"

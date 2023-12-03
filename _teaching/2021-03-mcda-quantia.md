@@ -3,7 +3,7 @@ title: "Master Cloud Data Architect"
 collection: teaching
 type: "Organisation employees training"
 permalink: /teaching/2021-03-mcda-quantia
-venue: "Quantia Consulting and Cefriel, Milan"
+venue: "Quantia Consulting and Cefriel"
 date: 2021-03-09
 location: "Milan, Italy"
 role: "Teaching Assistant"

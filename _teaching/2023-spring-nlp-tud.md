@@ -3,7 +3,7 @@ title: "CS4360 Natural Language Processing"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/2023-spring-cc-tud
-venue: "TU Delft, Delft"
+venue: "TU Delft"
 date: 2023-04-01
 location: "Delft, Netherlands"
 role: "Coaching students"
