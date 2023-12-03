@@ -11,7 +11,7 @@ author_profile: true
     {% for post in site.supervision reversed %}
         {% assign post_year = post.date | date: '%Y' %}
         {% if post_year == "2023" %}
-            {% include archive-single-teaching.html %}
+            {% include archive-single-supervision.html %}
         {% endif %}
     {% endfor %}
 </ul>
@@ -21,7 +21,7 @@ author_profile: true
     {% for post in site.supervision reversed %}
         {% assign post_year = post.date | date: '%Y' %}
         {% if post_year == "2022" %}
-            {% include archive-single-teaching.html %}
+            {% include archive-single-supervision.html %}
         {% endif %}
     {% endfor %}
 </ul>
