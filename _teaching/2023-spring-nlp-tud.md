@@ -2,7 +2,7 @@
 title: "CS4360 Natural Language Processing"
 collection: teaching
 type: "MSc course"
-permalink: /teaching/2023-spring-cc-tud
+permalink: /teaching/2023-spring-nlp-tud
 venue: "TU Delft"
 date: 2023-04-01
 location: "Delft, Netherlands"
