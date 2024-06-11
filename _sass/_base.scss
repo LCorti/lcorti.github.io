@@ -151,6 +151,18 @@ td > code {
   }
 }
 
+code {
+  font-size: 13px;
+  padding: 5.5px;
+  display:block;
+  color: #000000;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  white-space: pre-line;
+}
+
 /* horizontal rule */
 
 hr {
