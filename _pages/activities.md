@@ -10,6 +10,8 @@ author_profile: true
   - 2024: Web Co-chair
 
 ## Reviewer
+- The ACM Web Conference
+  - 2025 (industry track)
 - The ACM CHI Conference on Human Factors in Computing Systems
   - 2025 (main track, late-breaking works)
 - The ACM International Conference on Web Search and Data Mining (WSDM Demo track).
