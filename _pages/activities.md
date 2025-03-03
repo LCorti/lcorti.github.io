@@ -14,7 +14,7 @@ author_profile: true
   - 2025 (industry track)
 - The ACM CHI Conference on Human Factors in Computing Systems
   - 2025 (main track, late-breaking works)
-- The ACM International Conference on Web Search and Data Mining (WSDM Demo track).
+- The ACM International Conference on Web Search and Data Mining (WSDM).
   - 2023 (research track), 2025 (demo track)
 - The European Workshop on Algorithmic Fairness (EWAF).
   - 2024 (short papers)
