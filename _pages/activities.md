@@ -19,7 +19,7 @@ author_profile: true
 - The European Workshop on Algorithmic Fairness (EWAF).
   - 2024 (short papers)
 - GenAI&HCI: Generative AI and HCI at CHI Workshop.
-  - 2024
+  - 2024, 2025
 - The AAAI Conference on Human Computation and Crowdsourcing (HCOMP).
   - 2023 (main track)
 - The International Conference on Computational Linguistics (COLING).
