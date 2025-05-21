@@ -11,7 +11,7 @@ link:
 citation: |
     @inproceedings{Pierri2021VaccinItaly,
         title={VaccinItaly: monitoring Italian conversations around vaccines on Twitter and Facebook},
-        author={Pierri, Francesco and Tocchetti, Andrea and Corti, Lorenzo and Di Giovanni, Marco and Pavanetto, Silvio and Brambilla, Marco and Ceri, Stefano}
+        author={Pierri, Francesco and Tocchetti, Andrea and Corti, Lorenzo and Di Giovanni, Marco and Pavanetto, Silvio and Brambilla, Marco and Ceri, Stefano},
         booktitle={Workshop Proceedings of the 15th International AAAI Conference on Web and Social Media},
         year={2021}
     }
