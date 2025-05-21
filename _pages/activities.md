@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Organisation
+- The International Conference on Web Engineering (ICWE)
+  - 2025: Proceedings Co-chair
 - The AAAI Conference on Human Computation and Crowdsourcing (HCOMP)
   - 2024: Web Co-chair
 
