@@ -14,4 +14,4 @@ role: "Head Teaching Assistant"
 Responsibilities
 ------
 - Coaching group project
-- Grading student assignments (review of influencial papers in the are of human computation)
+- Grading students' reviews of influential works in human computation
