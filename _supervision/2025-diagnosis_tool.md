@@ -1,24 +1,18 @@
 ---
-title: "Characterising Toxicity in Language Models"
-student:
+title: "On Developing a Diagnostic Toolkit for Large Language Models"
+student: "Sebastiaan Beekman"
 collection: supervision
-type: "Capstone Applied AI Project"
-permalink: /supervision/2025-capstone-ai
+type: "MSc thesis"
+permalink: /supervision/2025-sebastiaan-beekman
 venue: "TU Delft"
-date: 2025-01-29
+date: 2025-11-03
 location: "Delft, Netherlands"
 ---
 
-**Title:** Characterising Toxicity in Language Models
+**Title:** On Developing a Diagnostic Toolkit for Large Language Models
 
-**Students**
-- Robbert Bithray
-- Wies Meijers
-- Job Sanders
-- Thijn Hillen
-- Michiel Jurgens
+**Student:** Sebastiaan Beekman
 
-**Type:** Capstone Applied AI Project.
-More information [here](https://www.tudelft.nl/evenementen/2024/delft-ai/joint-call-for-proposals-ai-projects-bsc-msc-student-groups).
+**Type:** MSc thesis
 
-[Link to students' GitHub repository](https://github.com/rbithray/CapstoneAI-Toxicity).
+*Ongoing*.
