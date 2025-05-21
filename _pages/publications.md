@@ -11,6 +11,17 @@ author_profile: true
   You can also find the updated list of articles on <a href="{{site.author.googlescholar}}" target=_blank>my Google Scholar profile</a> (opens in another page).
 {% endif %}
 
+## 2025
+---
+<ul>
+  {% for post in site.publications reversed %}
+    {% assign post_year = post.date | date: '%Y' %}
+    {% if post_year == "2025" %}
+        {% include archive-single-publication.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
 ## 2024
 ---
 <ul>
