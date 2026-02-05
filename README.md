@@ -1,7 +1,5 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
-
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+# Lorenzo Corti's Personal Website
+This personal website is hosted on Github Pages and makes use of the template [academicpages](https://github.com/academicpages/academicpages.github.io).
 
 # Getting Started
 
