@@ -27,9 +27,9 @@ author:
   avatar: "Lorenzo-Corti-WIS.png"
   name: "Lorenzo Corti"
   pronouns: # example: "she/her"
-  bio: "PhD candidate"
+  bio: "PhD candidate @ Delft University of Technology"
   location: "Delft, NL"
-  employer: "Delft University of Technology"
+  employer:
   uri: # URL
   email: "L.Corti@tudelft.nl"
 
