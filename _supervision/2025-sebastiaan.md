@@ -5,7 +5,7 @@ collection: supervision
 type: "MSc thesis"
 permalink: /supervision/2026-sebastiaan-beekman
 venue: "TU Delft"
-date: 2026-20-04
+date: 2026-04-20
 location: "Delft, Netherlands"
 ---
 
