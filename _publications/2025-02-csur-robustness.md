@@ -1,7 +1,7 @@
 ---
 title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
 collection: publications
-permalink: /publication/2024-05-csur-ai-robustness
+permalink: /publication/2025-02-csur-ai-robustness
 authors: Andrea Tocchetti<u>*</u>, <b>Lorenzo Corti</b><u>*</u>, Agathe Balayn<u>*</u>, Mireia Yurrita, Philip Lippmann, Marco Brambilla, Jie Yang
 date: 2025-02-10
 venue: ACM Computing Surveys

@@ -8,8 +8,19 @@ author_profile: true
 {% include base_path %}
 
 {% if site.author.googlescholar %}
-  You can also find the updated list of articles on <a href="{{site.author.googlescholar}}" target=_blank>my Google Scholar profile</a> (opens in another page).
+  You can also find the updated list of articles on <a href="{{site.author.googlescholar}}" target=_blank>my Google Scholar profile</a>.
 {% endif %}
+
+## 2026
+---
+<ul>
+  {% for post in site.publications reversed %}
+    {% assign post_year = post.date | date: '%Y' %}
+    {% if post_year == "2026" %}
+        {% include archive-single-publication.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
 
 ## 2025
 ---
