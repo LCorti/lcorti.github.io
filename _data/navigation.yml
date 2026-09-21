@@ -14,9 +14,6 @@ main:
   #  - title: "Portfolio"
   #    url: /portfolio/
 
-  - title: "Blog"
-    url: /blog/
-
   - title: "Activities"
     url: /activities/
 
