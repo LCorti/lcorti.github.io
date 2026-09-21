@@ -31,7 +31,7 @@ author:
   location: "Delft, NL"
   employer:
   uri: # URL
-  email: "L.Corti@tudelft.nl"
+  email: "corti.lorenz@gmail.com"
 
   # Academic websites
   academia: # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation: # Username
-  bluesky: "lcorti.bsky.social" # Replace this with you Bluesky username
+  # bluesky: "lcorti.bsky.social" # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
